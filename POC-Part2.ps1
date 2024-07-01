@@ -1,0 +1,2 @@
+# https://github.com/lennyomg/Spotify-PowerShell#:~:text=After%20successful%20authentication%20on%20the%20Spotify%20web%2Dsite%2C%20you%20will%20be%20redirected%20to%20a%20page%20with%20a%20PowerShell%20command%20to%20complete%20authentication%20in%20PowerShell.
+New-SpotifyAccessToken -AuthorizationCode $code
