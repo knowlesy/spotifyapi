@@ -6,9 +6,10 @@ https://developer.spotify.com/documentation/web-api
 2. Create an app and select "Web API" for the question asking which APIs are you planning to use. Once you have created your app, you will have access to the app credentials. These will be required for API authorization to obtain an access token.
 3. Use the access token in your API requests.
 
-Use the following for your http redirect 
+Use the following endpoints for your http redirect 
 ~~~
 http://127.0.0.1:1300/spotifyOAuthRedirectUri/
+https://lennyomg.github.io/Spotify-PowerShell/index.html
 ~~~
 
 
