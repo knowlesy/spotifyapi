@@ -8,10 +8,14 @@ https://developer.spotify.com/documentation/web-api
 
 Use the following endpoints for your http redirect 
 ~~~
-http://127.0.0.1:1300/spotifyOAuthRedirectUri/
 https://lennyomg.github.io/Spotify-PowerShell/index.html
 ~~~
 
+Get your username from spotify portal / account to update the 
+
+~~~
+https://www.spotify.com/de-en/account/profile/
+~~~
 
 
 
